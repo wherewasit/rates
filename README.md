@@ -8,10 +8,12 @@ The following rates apply when using the WhereWasIt Chrome Extension:
 | Search content for the first time | 1.05                                      |
 | Search content searched before    | 0.05                                      |
 
+The charges are in multiples of 0.01 credits. The rounding is always in the user's favor.
+
 # Example
 Suppose the user has 180 videos in the history. To determine the cost of searching the history we compute 0.05 + 0.0002 x 150 = 0.086. The user will be charged 0.08 credits.
 
 # An important note
 Please note that the rates are subject to change. Please refer to our [Terms and Conditions](https://github.com/wherewasit/terms#1-free-and-purchased-credits).
 
-Revised: November 28, 2023 at 13:35 UTC
+Revised: November 28, 2023 at 14:00 UTC
