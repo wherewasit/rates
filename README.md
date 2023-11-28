@@ -2,7 +2,7 @@
 The following rates apply when using the WhereWasIt Chrome Extension:
 
 | Operation                         | Charge in credits                         |
-|-----------------------------------|------------------------------------------:|
+|-----------------------------------|-------------------------------------------|
 | Index content                     |                                         1 |
 | Search history                    | 0.05 + 0.0002 x number of stored contents |
 | Search content for the first time | 1.05                                      |
