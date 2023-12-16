@@ -16,4 +16,4 @@ Suppose the user has 270 videos in the history. The calculation to determine the
 # An important note
 Please note that the rates are subject to change. Please refer to our [Terms and Conditions](https://github.com/wherewasit/terms#1-free-and-purchased-credits).
 
-Revised: December 16, 2023 at 19:10 UTC
+Revised: December 16, 2023 at 19:20 UTC
